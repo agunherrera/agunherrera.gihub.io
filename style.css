@@ -63,3 +63,16 @@ span{
     
 
 }
+
+#foto{
+    width: 600px;
+    height: 800px;
+    
+}
+#img-cont{
+    margin-top:1000 ;
+    display: inline-block;
+    padding-left: 200px;
+    width: 300px;
+   
+}
