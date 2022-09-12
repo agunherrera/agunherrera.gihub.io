@@ -13,3 +13,17 @@ body{
     background-color: black
     ;
 }
+.banner_img img{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+.banner_img h1{
+    padding-top: 30px;
+    color:grey;
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 30px;
+}
